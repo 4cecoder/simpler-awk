@@ -4,21 +4,33 @@ Possibly this guide could make learning awk simple?
 
 Ha-ha, you should decide this after you read this guide. 
 
-<div class="list">
- <ul>
- <li>Item 1</li>
- <li>Item 2</li>
- <li>Item 3</li>
- </ul>
-  
-## [Recommended books (not written by me)](recommended.md)
-## [Similar Github Guides](notables.md)
-## [Prerequisites](prerequisites.md)
-## [Introduction](intro.md)
-## [Glossery](glossery.md)
-## [Invoking Awk](invoking.md)
-## [Patterns](patterns.md)
-## [Commands](commands.md)
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+     ## [Recommended books (not written by me)](recommended.md)
+      <ul>
+      </ul>
+    </li>
+    <li>
+      ## [Similar Github Guides](notables.md)
+      <ul>
+      ## [Prerequisites](prerequisites.md)
+      </ul>
+    </li>
+     <li>## [Introduction](intro.md)</li>
+     <li>## [Glossery](glossery.md)</li>
+     <li>## [Invoking Awk](invoking.md)</li>
+     <li>## [Patterns](patterns.md)</li>
+     <li>## [Commands](commands.md)</li>
+     <li>## [Programming](programming.md)</li>
+  </ol>
+
+</details>
+
+
+
 ## [Programming](programming.md)
 ## [Programming Usage](usage.md)
 ## [Options](options.md)
