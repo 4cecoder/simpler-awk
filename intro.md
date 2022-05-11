@@ -12,6 +12,7 @@
 *  It splits each record (line) into fields (words). 
 
 ### In your awk program
-*  you have code that will look like this  `/bilbo/ {print $0}`. `/bilbo/` is a pattern. `{print $0}` is an action (inside the curly braces). 
+* you have code that will look like this  `/bilbo/ {print $0}`. `/bilbo/` is a pattern.
+  * `{print $0}` is an action (inside the curly braces). 
 * On each record (line) that matches pattern (`/bilbo/`) execute actions inside curly braces (`{print $0}`). 
 * The special variable `$0` represents the whole record (line). `print` prints.
