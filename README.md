@@ -4,42 +4,39 @@ Possibly this guide could make learning awk simple?
 
 Ha-ha, you should decide this after you read this guide. 
 
+[//]: # ()
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-     ## [Recommended books (not written by me)](recommended.md)
+<a href="recommended.md">Recommended Books</a>
       <ul>
       </ul>
     </li>
     <li>
-      ## [Similar Github Guides](notables.md)
+<a href="notables.md">Similar Github Guides</a>
       <ul>
-      ## [Prerequisites](prerequisites.md)
+<a href="prerequisites.md">Prerequisites</a>
       </ul>
     </li>
-     <li>## [Introduction](intro.md)</li>
-     <li>## [Glossery](glossery.md)</li>
-     <li>## [Invoking Awk](invoking.md)</li>
-     <li>## [Patterns](patterns.md)</li>
-     <li>## [Commands](commands.md)</li>
-     <li>## [Programming](programming.md)</li>
+     <li><a href="intro.md">Introduction</a></li>
+     <li><a href="glossary.md">Glossary</a></li>
+     <li><a href="invoking.md">Invoking Awk</a></li>
+     <li><a href="patterns.md">Patterns</a></li>
+     <li><a href="commands.md">Commands</a></li>
+     <li><a href="programming.md">Programming </a></li>
+     <li><a href="usage.md">Programming Usage</a></li>
+     <li><a href="options.md">Options</a></li>
+     <li><a href="strings.md">Strings</a></li>
+     <li><a href="system-cmd.md">System Commands</a></li>
+     <li><a href="write.md">Write to File</a></li>
+     <li><a href="stdin.md">Stdin</a></li>
+     <li><a href="get-line.md">Getline Example</a></li>
+     <li><a href="positional.md">Positional Variable</a></li>
+     <li><a href="hunk.md">The HUNK</a></li> 
+     <li><a href="print.md">Print</a></li>
+     <li><a href="about.md">About</a></li>
   </ol>
-
 </details>
-
-
-
-## [Programming](programming.md)
-## [Programming Usage](usage.md)
-## [Options](options.md)
-## [Strings](strings.md)
-## [System Commands](system-cmd.md)
-## [Write to File](write.md)
-## [System Commands with Stdin](stdin.md)
-## [Getline Example](get-line.md)
-## [Positional Variable](positional.md)
-## [The HUNK](hunk.md)
-## [Print](print.md)
-## [About](about.md)
