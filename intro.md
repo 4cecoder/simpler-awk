@@ -3,7 +3,8 @@
 ### Awk operates on records and fields. 
 * A record is by default a line. 
 * A field is a "word" by default. 
-* You can change how a record/field is defined by changing the field separator var (FS) and the record separator (RS).
+* You can change how a record/field is defined
+  * by changing the field separator var (FS) and the record separator (RS).
 
 ### Inputs
 * You give awk some files on which to operate.
