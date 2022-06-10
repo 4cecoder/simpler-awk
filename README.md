@@ -1,6 +1,6 @@
 # Simpler Awk
 ### Is awk simple? 
-Possibly this guide could make learning awk simple?
+this guide could Possibly  make learning awk simple
 
 Ha-ha, you should decide this after you read this guide. 
 
